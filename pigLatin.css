@@ -73,7 +73,7 @@ main {
 
 .text {
     border: 1px solid black;
-    width: 100%;
+    width: 90%;
     background-color: inherit;
     font-family: inherit;
     font-size: 1.5rem;
