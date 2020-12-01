@@ -9,7 +9,7 @@ body {
     background-color: #FCA5A5;
     margin: 0px;
     font-family: 'Caveat';
-    font-size: 3rem;
+    
 }
 
 main {
@@ -21,6 +21,8 @@ main {
     width: 50%;
     margin: 0 auto;
     text-align: center;
+    font-size: 3.5rem;
+    text-decoration: underline;
 
 }
 
