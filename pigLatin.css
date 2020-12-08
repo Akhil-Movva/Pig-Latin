@@ -67,7 +67,7 @@ main {
 #text-output {
 
     box-sizing: content-box;
-    overflow: scroll;
+    overflow: auto;
     padding: 1px;
     min-height: 15vh;
     max-height: 20vh;
